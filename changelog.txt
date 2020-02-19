@@ -13,7 +13,7 @@ version 1.0.4
 	-Adjusted ± to properly align with + symbol
 
 version 1.0.3
-	-Added ligatures <$ <$> $> <+ <+> +> <* <*> *>
+	-Added ligatures <$ <$> $> <+ <+> +> <* <*> *>  
 	-Added arrows <-< >->
 	-Added comparisons ** *** +++ --- =!=
 	-Adjusted ++ and -- to be centered

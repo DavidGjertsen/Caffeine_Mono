@@ -1,0 +1,40 @@
+﻿version 1.0.0
+	-English language support including all necessary diacritics
+	-All symbols necessary for programming/general use as well as a number of less commonly used ones
+	-Ligatures for Javascript, CSS, HTML
+
+version 1.0.1
+	-Adjusted crossbar on f to better match other characters
+
+version 1.0.2
+	-Lowered crossbar on A Á Æ
+	-Adjusted S and s to have a less extreme middle curve
+	-Increased spacing on quotation marks "" at small scales
+	-Removed extra whitespace on /* */ ligatures
+	-Minor visual adjustments and spacing fixes
+
+version 1.0.3
+	-Added ligatures <$ <$> $> <+ <+> +> <* <*> *>
+	-Added arrows <-< >->
+	-Added comparisons ** *** +++ --- =!=
+	-Adjusted ++ and -- to be centered
+
+version 1.0.4
+	-Added arrows ->> <<-
+	-Adjusted « » ‹ › symbols to better match < >
+	-Adjusted ± to properly align with + symbol
+
+version 1.0.5
+	-Added ligatures .= ..= .- := =:= =/=
+	-Added ligatures [| |] {| |}
+	-Fixed spacing on =!= ligature
+
+*********************************************************************************************************
+
+To do list
+	-All symbols
+	-All diacritics
+	-More programming ligatures (based on ligatures from JetBrains Mono and others)
+	-Bold version
+	-Italic version
+	-Test with actual designers

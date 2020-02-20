@@ -1,4 +1,7 @@
-﻿version 1.0.6
+﻿version 1.0.7
+	-Added many more symbols
+
+version 1.0.6
 	-Added ligatures <||| <|| <| <|> |> ||> |||>
 	-Added ligatures <: >: :< :>
 	-Added ligature </>

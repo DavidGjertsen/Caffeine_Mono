@@ -1,4 +1,7 @@
-﻿version 1.0.7
+﻿version 1.0.8
+	-Adjusted S again
+
+version 1.0.7
 	-Added many more symbols
 
 version 1.0.6

@@ -1,5 +1,6 @@
 ﻿version 1.0.8
 	-Adjusted S again
+	-Adjusted f
 
 version 1.0.7
 	-Added many more symbols
